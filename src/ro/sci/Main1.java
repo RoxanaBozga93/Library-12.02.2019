@@ -45,8 +45,6 @@ public class Main1 {
         ((ArtAlbum) albumArta).setCaliateHartie("good");
 
 
-
-
         Library librarie = new Library();
 
         librarie.addBook(carte1);
